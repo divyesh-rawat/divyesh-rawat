@@ -148,6 +148,6 @@ I love building AI-powered applications and solving DSA problems.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=180&section=footer&!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </p>
