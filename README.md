@@ -106,6 +106,6 @@ const divyeshRawat = {
 
 <div align="center">
 
-![Footer](https://capsule-render.com/api?type=waving&color=000000&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.com/api?type=waving&color=white&height=120&section=footer&animation=twinkling)
 
 </div>
