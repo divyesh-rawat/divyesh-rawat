@@ -1,9 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=000000&height=200&section=header&text=Divyesh%20Rawat&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35)
-
-<img src="https://github.com/divyesh-rawat.png" width="120" style="border-radius:50%;" alt="Divyesh Rawat"/>
-
 <a href="https://github.com/divyesh-rawat">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Software+Developer;Python+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
 </a>
