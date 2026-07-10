@@ -103,9 +103,4 @@ const divyeshRawat = {
 </div>
 
 ---
-
-<div align="center">
-
-![Footer](https://capsule-render.com/api?type=waving&color=white&height=120&section=footer&animation=twinkling)
-
-</div>
+![Footer](https://capsule-render.com/api?type=waving&color=1E90FF&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=20)
