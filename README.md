@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/divyesh-rawat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;Software+Developer;Python+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=600&lines=Data+Scientist;Software+Developer;Python+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
