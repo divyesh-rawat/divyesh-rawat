@@ -85,17 +85,6 @@ I love building AI-powered applications and solving DSA problems.
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=divyesh-rawat&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
 ## 💻 LeetCode
 
 <p align="center">
