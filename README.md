@@ -1,106 +1,153 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Divyesh Ravat</h1>
 
-<a href="https://github.com/divyesh-rawat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=600&lines=Data+Scientist;Software+Developer;Python+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
-</a>
+<h3 align="center">
+🚀 Python Developer | AI/ML Enthusiast | Full Stack Developer
+</h3>
 
-<br/>
-
-![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=github&logoColor=white)
-![Python Development](https://img.shields.io/badge/Python%20Development-000000?style=for-the-badge&logo=python&logoColor=white)
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-000000?style=for-the-badge&logo=ghost&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=divyesh-rawat&color=000000&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/divyesh-rawat?label=Followers&color=000000&style=flat)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Developer;Artificial+Intelligence+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things🚀" />
+</p>
 
 ---
 
-## 👤 Who I Am
+## 👨‍💻 About Me
 
-```typescript
-const divyeshRawat = {
-  title: "Data Science | Software Development | Python Development",
-  stack: {
-    languages: ["Java", "Python", "JavaScript"],
-    frontend: ["HTML", "CSS", "React", "JavaScript"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-  },
-  launchedProjects: [],
-  certifications: [],
-  status: "Building & learning",
-  openTo: "Full-time opportunities",
-};
+```yaml
+Name: Divyesh Ravat
+
+🎓 MCA (Artificial Intelligence)
+
+💻 Python | MERN Stack | Machine Learning
+
+🌱 Currently Learning:
+   • Deep Learning
+   • FastAPI
+   • Computer Vision
+   • Generative AI
+
+🎯 Looking For:
+   • Software Developer Internship
+   • Python Developer Role
+   • AI/ML Internship
+
+⚡ Fun Fact:
+I love building AI-powered applications and solving DSA problems.
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Languages**
+<p align="center">
 
-![Skills](https://skillicons.dev/icons?i=java,python,js&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,django,fastapi,git,github,vscode,postman,bootstrap,tensorflow,pytorch&perline=10"/>
 
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=html,css,react,js&theme=dark)
-
-**Backend**
-
-![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
-
-**AI / Database**
-
-![Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyesh-rawat&show_icons=true&theme=nord&border_color=1E90FF&title_color=1E90FF&text_color=333333&icon_color=1E90FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-rawat&layout=compact&theme=nord&border_color=1E90FF&title_color=1E90FF&text_color=333333)
-
-![Streak Stats](https://streak-stats.demolab.com?user=divyesh-rawat&theme=nord&border=1E90FF&stroke=1E90FF&ring=1E90FF&fire=1E90FF)
-
-</div>
+| Project | Tech |
+|----------|------|
+| 🤖 Interior AI | FastAPI • React • AI |
+| 📈 SEO Tracker | MERN Stack |
+| 📝 Blog Management System | Django • SQLite |
+| 🩺 Diabetes Prediction | Machine Learning |
+| 👥 Crowd Counting | OpenCV • Python |
 
 ---
 
-## 🏆 Trophies
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=divyesh-rawat&no-frame=true&no-bg=true&theme=nord)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyesh-rawat&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-rawat&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyesh-rawat&color=1E90FF&line=1E90FF&point=333333&area=true&hide_border=true&theme=minimal)
-
-</div>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-rawat/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyeshravat768@gmail.com)
+<img src="https://streak-stats.demolab.com?user=divyesh-rawat&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyesh-rawat&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=divyesh-rawat&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+## 💻 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Divyesh-rawat/">
+
+<img src="https://leetcard.jacoblin.cool/Divyesh-rawat?theme=dark&font=Nunito&ext=heatmap"/>
+
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+<table align="center">
+<tr>
+<td align="center" width="90">
+<a href="https://www.linkedin.com/in/divyesh-rawat/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55">
+</a>
+</td>
+
+<td align="center" width="90">
+<a href="mailto:divyeshravat768@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55">
+</a>
+</td>
+
+<td align="center" width="90">
+<a href="https://leetcode.com/u/Divyesh-rawat/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55">
+</a>
+</td>
+</table>
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=divyesh-rawat&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+
+</p>
