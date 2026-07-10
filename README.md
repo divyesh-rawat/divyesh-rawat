@@ -103,4 +103,4 @@ const divyeshRawat = {
 </div>
 
 ---
-![Footer](https://capsule-render.com/api?type=waving&color=1E90FF&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=20)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
