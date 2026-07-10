@@ -62,13 +62,9 @@ I love building AI-powered applications and solving DSA problems.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyesh-rawat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-rawat&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyesh-rawat&theme=github_dark"/>
 
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
